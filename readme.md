@@ -4,7 +4,7 @@ An async Python SDK for interacting with the StockX API, providing both low-leve
 
 > ⚠️ This SDK is under active development.
 
-> ⚠️ `python-stockx` is in no way endorsed by or affiliated with StockX in any way. Make sure to read and understand the
+> ⚠️ `stockx.py` is in no way endorsed by or affiliated with StockX in any way. Make sure to read and understand the
 > [StockX API Terms of Service](https://developer.stockx.com/portal/license-agreement/) before using this package. 
 
 > ⚠️ This library does not circumvent API limits, expose private or proprietary data, or violate security measures. All functionality is based solely on publicly available documentation and data.
